@@ -5,4 +5,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class JournalEntryController {
 
+//    private Map<Long, JournalEntry> JournalEntries = new hashMap<>();
 }
